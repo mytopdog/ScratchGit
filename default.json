@@ -1,0 +1,6 @@
+{
+	"server": {
+		"main": "localhost",
+		"path": "/"
+	}
+}
